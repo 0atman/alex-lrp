@@ -1,4 +1,4 @@
 Character:
  - Name (string)
- - reputation:integer
- - money:integer
+ - reputation (integer)
+ - money (integer)
